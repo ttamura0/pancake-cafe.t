@@ -433,7 +433,7 @@ img {
 	text-decoration :none;
 	font-family :'LimelightRegular';
 	font-size :32px;
-	color :#FA45A4;
+	color :#000000;
 	text-align :center;
 	font-weight :normal;
 }
@@ -443,7 +443,7 @@ img {
 	font-family :'LimelightRegular';
 }
 #body .sidebar ul.navigation li a.active {
-	color :#FA45A4;
+	color :#000000;
 	font-size :32px;
 	font-family :'LimelightRegular';
 }
